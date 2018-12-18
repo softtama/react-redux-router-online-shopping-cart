@@ -1,8 +1,22 @@
+## React Examples - Create an Online Store using React, Redux, React Router v4
+
+This React app was created based on the YouTube video tutorials provided by [React University](https://www.youtube.com/channel/UCx4a8EMmXx-6RuJlyAKASoQ).
+
+Links to the video: [Part 1](https://youtu.be/T_HtlP80UYc) | [Part 2](https://youtu.be/5G3zSueEYuo)
+
+Re-coded by [Rizki Pratama](https://github.com/softtama)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+for the first time, and then you run
 
 ### `npm start`
 
